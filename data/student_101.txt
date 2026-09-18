@@ -1,7 +1,7 @@
 STUDENT ACADEMIC RECORD
 ========================
 Student ID: 101
-Name: satyam
+Name: aryan
 Department: CSE(AIML)
 
 COURSES
